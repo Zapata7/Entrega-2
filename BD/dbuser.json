@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "pepito",
+        "lastname": "Perez",
+        "borneyear": "1950",
+        "gender": "Masculino",
+        "Tall": "200",
+        "age": "72",
+        "Profesion": "Todero"
+
+    },
+    {
+        "id": 2,
+        "name": "peto",
+        "lastname": "Perea",
+        "borneyear": "1460",
+        "gender": "Masculino",
+        "Tall": "150",
+        "age": "39",
+        "Profesion": "Todero"
+
+    }
+]
